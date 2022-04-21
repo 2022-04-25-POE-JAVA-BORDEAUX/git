@@ -12,7 +12,7 @@
 ### Guides installations
 [Git, Vscode et compte Github](./interns/4-guides_installations/README.md)
 ### Travaux pratiques
-
+[Consigne TP après-midi](./interns/5-tp/README.md)
 ### Évaluation
 [QCS Commandes Git](./interns/6-qcs/README.md)
 ### Feedback
