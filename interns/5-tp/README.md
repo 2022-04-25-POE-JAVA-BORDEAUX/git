@@ -16,11 +16,11 @@
      - README.md contenant les instructions pour récupérer le projet en local
      - .gitignore
   2.  Inviter les 2 développeurs qui doivent collaborer dans ce projet 
-     
+  
 - Settings > General > Access > Collaborators > add people
-     
+  
   ![Catpure ecran](./../img/access.png)
-     
+  
   3. Nommer développeur 1 et nommer développeur 2 (pour pouvoir distinguer les développeurs et attribuer des tâches spécifiques à chacun)
   4. Accepter, publier ou rejeter les pull requests des développeurs
      
@@ -36,6 +36,7 @@
 4. Créer un dossier morning
 5. Créer un fichier nommé menu.txt qui doit contenir un ou plusieurs viennoiseries, boissons de son choix avec les tarifs pour chaque 
 6. Commiter et pusher vers le dépôt distant
+7. Faire une demande de pull request en mettant le développeur 2 en tant que  **Reviewers** pour la revue du code, assigner le owner dans **Assignees** et un petit commentaire pour expliquer votre travail
 
 #### Rôle du second développeur
 
@@ -45,6 +46,7 @@
 4. Créer un dossier lunch
 5. Créer un fichier nommé menu.txt qui doit contenir un ou plusieurs menus avec entrées, plats, boissons ou desserts de son choix avec les tarifs pour chaque 
 6. Commiter et pusher vers le dépôt distant
+7. Faire une demande de pull request en mettant le développeur 1 en tant que  **Reviewers** pour la revue du code, assigner le owner dans **Assignees** et un petit commentaire pour expliquer votre travail
 
 
 
