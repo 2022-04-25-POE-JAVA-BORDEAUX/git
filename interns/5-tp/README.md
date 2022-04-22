@@ -36,9 +36,9 @@
 
         **Illustration**
 
-        ![issue](D:\freelance\formations\coderbase\poe_fullstack_java_bordeaux\interns\img\issue_1.png)
+      ![issue1](./../img/issue_1.png)
 
-     ![issue2](D:\freelance\formations\coderbase\poe_fullstack_java_bordeaux\interns\img\issue_2.png)
+     ![issue2](./../img/issue_2.png)
 
   5. En local
 
