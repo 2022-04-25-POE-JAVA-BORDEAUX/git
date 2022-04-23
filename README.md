@@ -8,7 +8,7 @@
 ### Objectifs pédagogiques et cadre
 [Objectifs pédagogiques](./interns/1-objectifs_pedagogiques/objectifs_pedagogiques_et_cadre.pdf)
 ### Cours et exercices
-
+[Cours et exercices Git/Github](./interns/3-cours-exercices/cours_exercices_git.pdf)
 ### Guides installations
 [Git, Vscode et compte Github](./interns/4-guides_installations/README.md)
 ### Travaux pratiques
