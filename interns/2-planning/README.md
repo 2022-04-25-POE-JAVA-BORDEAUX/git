@@ -1,3 +1,3 @@
-### Mot de passe Lecture fichier PDF planning_seance.pdf
+### Planning de la journée
 
-mot de passe : planning
+![planning](../img/planning.png)

@@ -3,8 +3,9 @@
 **La plupart des PDF sont sécurisés pour l'édition et la lecture, le mot de passe pour la lecture sera communiqué en début de séance**
 
 ### Présentations
-[Présentation](./interns/0-presentation/presentation.pdf)
-
+[Présentations](./interns/0-presentation/presentation.pdf)
+### Planning de la journée
+[Planning de la journée](./interns/2-planning/README.md)
 ### Objectifs pédagogiques et cadre
 [Objectifs pédagogiques](./interns/1-objectifs_pedagogiques/objectifs_pedagogiques_et_cadre.pdf)
 ### Cours et exercices
