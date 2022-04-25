@@ -12,6 +12,7 @@
 ### Objectifs pédagogiques et cadre de travail
 [Objectifs pédagogiques](./interns/1-objectifs_pedagogiques/objectifs_pedagogiques_et_cadre.pdf)
 ### Cours et exercices
+[Résumé commandes Unix](./interns/3-cours-exercices/terminal.md)
 [Cours et exercices Git/Github](./interns/3-cours-exercices/cours_exercices_git.pdf)
 ### Guides installations
 [Git, Vscode et compte Github](./interns/4-guides_installations/README.md)

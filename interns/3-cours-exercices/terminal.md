@@ -1,7 +1,7 @@
 # Commandes de base utilisation terminal
 
 [Plus d'information sur les commandes Unix de base à connaitre](https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base)
-## Resumé
+## Résumé
 ### Afficher répertoire courant
 
 `pwd`
