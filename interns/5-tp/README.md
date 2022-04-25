@@ -1,5 +1,4 @@
-# Travaux pratiques : travail collaboratif avec Git et Github
-## Consignes
+# Travail collaboratif avec Git et Github
 ## PARTIE 1
 
 #### Formation des groupes
@@ -22,7 +21,7 @@
 
      **Illustration**
 
-  ![Catpure ecran](./../img/access.png)
+  ![Catpure ecran](./../img/jpg/access.jpg)
 
   3. Désignez développeur 1 et développeur 2 (nécessaire pour attribuer les tâches à chacun)
 
@@ -34,33 +33,31 @@
 
         Vous pouvez rajouter les **Labels** de votre choix parmi la liste proposée
 
-        **Illustration**
-
-      ![issue1](./../img/issue_1.png)
-
-     ![issue2](./../img/issue_2.png)
+        **Illustrations**
+        ![issue1](./../img/jpg/issue_1.jpg)
+        ![issue2](./../img/jpg/issue_2.jpg)
 
   5. En local
 
      1. Récupérez le dépôt distant
      2. Créez une branche nommée ***main*** 
      3. Modifiez la mise en page ***README.md*** en suivant ce [guide ](https://docs.framasoft.org/fr/grav/markdown.html)
-   4. Pushez
+     4. Pushez
   
 6. Acceptez, publiez ou rejetez les pull requests de vos développeurs
   
-     - En cas de rejet, dites à vos développeurs la raison du refus en utilisant les outils mis à disposition sur Github
+   - En cas de rejet, dites à vos développeurs la raison du refus en utilisant les outils mis à disposition sur Github
    - Gérez les conflits lors des merge request sur la branche *main*
   
 7. Après avoir effectué les merge request des travaux de vos développeurs sur la branche main
   
-     1. Créez une issue nommée **feature/prices** et assignez-le à vous même
-     2. Créez une nouvelle branche qui porte le même nom que l'issue
-     3. Ajoutez les prix aux produits présents sur chaque ligne des fichiers ***menu.md*** et ***drink.md***
+   1. Créez une issue nommée **feature/prices** et assignez-le à vous même
+   2. Créez une nouvelle branche qui porte le même nom que l'issue
+   3. Ajoutez les prix aux produits présents sur chaque ligne des fichiers ***menu.md*** et ***drink.md***
    4. Pushez vos modifications sur le dépôt distant
-     5. Faites le merge request de cette branche dans la branche *main*
+   5. Faites le merge request de cette branche dans la branche *main*
   
-  8. Prévenez vos collaborateurs de l'ajout des prix
+8. Prévenez vos collaborateurs de l'ajout des prix
 
 #### Rôle du premier développeur
 
@@ -78,6 +75,7 @@
 7. Après avoir été prévenu de l'ajout des prix sur les fichiers *menu.md* et *drink.md*
    1. Récupérez tous les changements effectués sur le dépôt distant en local
    2. S'il y a des conflits, les gérer en communiquant avec vos collaborateurs
+8. Créez une nouvelle branche pour modifier la mise en page  des fichiers **menu.md**  et **drink.md** en suivant ce [guide ](https://docs.framasoft.org/fr/grav/markdown.html)
 
 #### Rôle du second développeur
 
@@ -95,3 +93,21 @@
 7. Après avoir été prévenu de l'ajout des prix sur les fichiers *menu.md* et *drink.md*
    1. Récupérez tous les changements effectués sur le dépôt distant en local
    2. S'il y a des conflits, les gérer en communiquant avec vos collaborateurs
+8. Créez une nouvelle branche pour modifier la mise en page  des fichiers **menu.md**  et **drink.md** en suivant ce [guide ](https://docs.framasoft.org/fr/grav/markdown.html)
+
+### PARTIE 2
+
+**En total autonomie**
+
+1. Echangez vos rôles
+2. Concertez-vous pour créer des nouvelles issues et branches dans le but  : 
+   - D' étouffer le contenu des fichiers *menu.md* et *drink.md* 
+   - De restructurer l'arborescence des fichiers en créant des nouveaux dossiers, fichiers par exemple
+   - D' ajouter quelques photos
+   - **Et tout ce qui vous passe par la tête**
+
+**Illustractions pour transferer le rôle d' Owner à un autre collaborateur**
+
+![image](../img/jpg/transfer_owner1.jpg)
+
+![image](../img/jpg/transfer_owner2.jpg)
