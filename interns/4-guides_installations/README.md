@@ -1,9 +1,10 @@
-### GUIDE INSTALLATION
+### GUIDES INSTALLATIONS
 
-#### INSTALLER GIT
+#### Installer GIT
 
 [Téléchargement logiciel](https://git-scm.com/downloads)
-#### INSTALLER VSCODE
+
+#### Installer VSCODE
 
 [Téléchargement logiciel](https://code.visualstudio.com/)
 #### Créer un compte sur GITHUB
