@@ -1,9 +1,9 @@
 ## Séance Git
 
-**La plupart des PDF sont sécurisés pour l'édition et la lecture, le mot de passe pour la lecture sera communiqué en début de séance**
+**Les PDF sont sécurisés pour l'édition et la lecture, le mot de passe pour la lecture sera communiqué en début de séance**
 
 ### Présentations
-[Présentations](./interns/0-presentation/presentation.pdf)
+[Parlez moi de vous en répondant aux questions](./interns/0-presentation/README.md)
 ### Planning de la journée
 [Planning de la journée](./interns/2-planning/README.md)
 ### Objectifs pédagogiques et cadre
