@@ -1,4 +1,4 @@
-# Correction Partie 4
+# Correction partie 4
 
 ### Fusion branche ex1/part1-3 dans la branch main
 ![image](./img/0.png)

@@ -1,4 +1,4 @@
-# Correction de l'exercice 1 Partie 1 à 3
+# Correction parties 1 à 3
 
 ## Partie 1
 #### Création dossiers git-exos et fichier .gitignore
@@ -20,7 +20,7 @@
 ### État du dépot et premier commit
 ![image](./img/part1/5.png)
 
-## Partie 2
+## Partie 2 et 3
 ### Création du README
 Depuis le dossier git-exos
 `cd exercice1`
